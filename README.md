@@ -2,6 +2,10 @@
 
 ## Profiling de los tres algoritmos del ejercicio 1.
 
+## Video
+
+Video explicativo del laboratorio: [https://youtu.be/kp5kk3RlpMA](https://youtu.be/kp5kk3RlpMA)
+
 ## Instalación
 
 ```
